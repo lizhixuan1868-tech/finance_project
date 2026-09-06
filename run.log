@@ -1,0 +1,5 @@
+nohup: ignoring input
+2026-09-04 15:43:00,847 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-04 15:43:00,847 [INFO] 🚀 数据调度服务已启动，等待定时触发... (按 Ctrl+C 退出)
+2026-09-04 15:43:00,847 [INFO] Added job "run_daily_task" to job store "default"
+2026-09-04 15:43:00,847 [INFO] Scheduler started

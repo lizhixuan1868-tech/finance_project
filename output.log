@@ -1,0 +1,9 @@
+nohup: ignoring input
+2026-09-03 14:28:44,359 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-09-03 14:28:44,359 [INFO] 🚀 数据调度服务已启动，等待定时触发... (按 Ctrl+C 退出)
+2026-09-03 14:28:44,359 [INFO] Added job "run_daily_task" to job store "default"
+2026-09-03 14:28:44,359 [INFO] Scheduler started
+2026-09-03 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-03 16:30:00 CST)" (scheduled at 2026-09-03 16:30:00+08:00)
+2026-09-03 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260903 的数据抓取与清洗...
+2026-09-03 16:30:01,781 [INFO] ✅ 20260903 数据任务执行成功！
+2026-09-03 16:30:01,781 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" executed successfully

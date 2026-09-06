@@ -1,0 +1,675 @@
+========================================
+巡检时间: 2026-09-04 16:25:31
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  nohup: ignoring input
+  2026-09-04 15:59:31,492 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+  2026-09-04 15:59:31,492 [INFO] 🚀 数据调度服务已启动，等待定时触发... (按 Ctrl+C 退出)
+  2026-09-04 15:59:31,492 [INFO] Added job "run_daily_task" to job store "default"
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-04 16:29:22
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  nohup: ignoring input
+  2026-09-04 15:59:31,492 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+  2026-09-04 15:59:31,492 [INFO] 🚀 数据调度服务已启动，等待定时触发... (按 Ctrl+C 退出)
+  2026-09-04 15:59:31,492 [INFO] Added job "run_daily_task" to job store "default"
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-04 16:33:38
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-04 16:33:52
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-04 16:35:01
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-04 16:35:07
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-04 16:35:41
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-04 16:51:20
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 15%)
+
+========================================
+巡检时间: 2026-09-04 17:03:20
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 15%)
+
+========================================
+巡检时间: 2026-09-04 17:04:35
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 15%)
+
+========================================
+巡检时间: 2026-09-04 17:08:04
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 15%)
+
+========================================
+巡检时间: 2026-09-04 17:10:53
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  nohup: ignoring input
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 15%)
+
+========================================
+巡检时间: 2026-09-05 07:00:01
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  
+  ⏰ [2026-09-05 03:25:14] 正在获取伦敦金最新数据...
+  ❌ 伦敦金监控任务异常: GoldFetcher.fetch_gold_history() got an unexpected keyword argument 'market_type'
+  
+  ⏰ [2026-09-05 03:30:15] 正在获取伦敦金最新数据...
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-05 07:06:26
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  
+  ⏰ [2026-09-05 03:25:14] 正在获取伦敦金最新数据...
+  ❌ 伦敦金监控任务异常: GoldFetcher.fetch_gold_history() got an unexpected keyword argument 'market_type'
+  
+  ⏰ [2026-09-05 03:30:15] 正在获取伦敦金最新数据...
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-05 16:15:19
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+  python3.10                          PID: 410950   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  ⏰ [2026-09-05 14:45:54] 正在获取伦敦金最新数据...
+  ❌ 伦敦金监控任务异常: GoldFetcher.fetch_gold_history() got an unexpected keyword argument 'market_type'
+  
+  ⏰ [2026-09-05 14:50:54] 正在获取伦敦金最新数据...
+  ❌ 伦敦金监控任务异常: GoldFetcher.fetch_gold_history() got an unexpected keyword argument 'market_type'
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-05 16:22:46
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  ⏰ [2026-09-05 14:45:54] 正在获取伦敦金最新数据...
+  ❌ 伦敦金监控任务异常: GoldFetcher.fetch_gold_history() got an unexpected keyword argument 'market_type'
+  
+  ⏰ [2026-09-05 14:50:54] 正在获取伦敦金最新数据...
+  ❌ 伦敦金监控任务异常: GoldFetcher.fetch_gold_history() got an unexpected keyword argument 'market_type'
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-05 16:22:52
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+
+▸ 伦敦金采集日志 (最近5行)
+  ⏰ [2026-09-05 14:45:54] 正在获取伦敦金最新数据...
+  ❌ 伦敦金监控任务异常: GoldFetcher.fetch_gold_history() got an unexpected keyword argument 'market_type'
+  
+  ⏰ [2026-09-05 14:50:54] 正在获取伦敦金最新数据...
+  ❌ 伦敦金监控任务异常: GoldFetcher.fetch_gold_history() got an unexpected keyword argument 'market_type'
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-05 16:24:05
+========================================
+
+▸ 进程运行状态
+
+========================================
+巡检时间: 2026-09-05 16:27:09
+========================================
+
+▸ 进程运行状态
+
+========================================
+巡检时间: 2026-09-05 16:28:05
+========================================
+
+▸ 进程运行状态
+
+========================================
+巡检时间: 2026-09-05 16:28:08
+========================================
+
+▸ 进程运行状态
+
+========================================
+巡检时间: 2026-09-05 16:28:11
+========================================
+
+▸ 进程运行状态
+
+========================================
+巡检时间: 2026-09-05 16:28:22
+========================================
+
+▸ 进程运行状态
+
+========================================
+巡检时间: 2026-09-05 16:29:21
+========================================
+
+▸ 进程运行状态
+
+========================================
+巡检时间: 2026-09-05 16:31:01
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 407344   运行中
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-05 16:37:33
+========================================
+
+▸ 进程运行状态
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-05 16:38:41
+========================================
+
+▸ 进程运行状态
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-05 16:42:07
+========================================
+
+▸ 进程运行状态
+
+▸ 调度器日志 (最近5行)
+  2026-09-04 15:59:31,492 [INFO] Scheduler started
+  2026-09-04 16:30:00,000 [INFO] Running job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-04 16:30:00 CST)" (scheduled at 2026-09-04 16:30:00+08:00)
+  2026-09-04 16:30:00,001 [INFO] ⏰ 定时任务触发：开始执行 20260904 的数据抓取与清洗...
+  2026-09-04 16:30:02,730 [INFO] ✅ 20260904 数据任务执行成功！
+  2026-09-04 16:30:02,730 [INFO] Job "run_daily_task (trigger: cron[day_of_week='mon-fri', hour='16', minute='30'], next run at: 2026-09-07 16:30:00 CST)" executed successfully
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.7G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-05 17:02:27
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 753671   运行中
+
+▸ 调度器日志 (最近5行)
+  nohup: ignoring input
+  2026-09-05 17:01:26,869 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+  2026-09-05 17:01:26,869 [INFO] 🚀 数据调度服务已启动，等待定时触发... (按 Ctrl+C 退出)
+  2026-09-05 17:01:26,870 [INFO] Added job "run_daily_task" to job store "default"
+  2026-09-05 17:01:26,870 [INFO] Scheduler started
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.9G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-06 02:13:09
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 753671   运行中
+  python3.10                          PID: 877942   运行中
+
+▸ 调度器日志 (最近5行)
+  nohup: ignoring input
+  2026-09-05 17:01:26,869 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+  2026-09-05 17:01:26,869 [INFO] 🚀 数据调度服务已启动，等待定时触发... (按 Ctrl+C 退出)
+  2026-09-05 17:01:26,870 [INFO] Added job "run_daily_task" to job store "default"
+  2026-09-05 17:01:26,870 [INFO] Scheduler started
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 5.9G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-06 07:00:01
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 753671   运行中
+  python3.10                          PID: 877942   运行中
+
+▸ 调度器日志 (最近5行)
+  nohup: ignoring input
+  2026-09-05 17:01:26,869 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+  2026-09-05 17:01:26,869 [INFO] 🚀 数据调度服务已启动，等待定时触发... (按 Ctrl+C 退出)
+  2026-09-05 17:01:26,870 [INFO] Added job "run_daily_task" to job store "default"
+  2026-09-05 17:01:26,870 [INFO] Scheduler started
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 6.0G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-06 11:04:54
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 753671   运行中
+  python3.10                          PID: 877942   运行中
+
+▸ 调度器日志 (最近5行)
+  nohup: ignoring input
+  2026-09-05 17:01:26,869 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+  2026-09-05 17:01:26,869 [INFO] 🚀 数据调度服务已启动，等待定时触发... (按 Ctrl+C 退出)
+  2026-09-05 17:01:26,870 [INFO] Added job "run_daily_task" to job store "default"
+  2026-09-05 17:01:26,870 [INFO] Scheduler started
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 6.0G / 总量: 40G (使用率: 16%)
+
+========================================
+巡检时间: 2026-09-06 11:05:08
+========================================
+
+▸ 进程运行状态
+  python3.10                          PID: 753671   运行中
+  python3.10                          PID: 877942   运行中
+
+▸ 调度器日志 (最近5行)
+  nohup: ignoring input
+  2026-09-05 17:01:26,869 [INFO] Adding job tentatively -- it will be properly scheduled when the scheduler starts
+  2026-09-05 17:01:26,869 [INFO] 🚀 数据调度服务已启动，等待定时触发... (按 Ctrl+C 退出)
+  2026-09-05 17:01:26,870 [INFO] Added job "run_daily_task" to job store "default"
+  2026-09-05 17:01:26,870 [INFO] Scheduler started
+
+▸ 数据产出文件
+  total 656K
+  -rw-r--r-- 1 ubuntu ubuntu 656K Sep  3 13:13 finance.db
+
+▸ 磁盘使用情况
+  已用: 6.0G / 总量: 40G (使用率: 16%)
+

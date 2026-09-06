@@ -1,0 +1,7 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "config/scheduler.py", line 2, in <module>
+    from main import main  # 导入你写好的总指挥
+  File "/home/ubuntu/finance_project/config/main.py", line 213, in <module>
+    from core.data_factory import DataFactory
+ModuleNotFoundError: No module named 'core'
