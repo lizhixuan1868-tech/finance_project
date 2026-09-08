@@ -29,8 +29,8 @@ if __name__ == '__main__':
         run_daily_task,
         'cron',
         day_of_week='mon-fri',
-        hour=5,
-        minute=30,
+        hour=21,
+        minute=23,
         timezone='Asia/Shanghai'
     )
 
