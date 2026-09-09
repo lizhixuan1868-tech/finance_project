@@ -1,4 +1,4 @@
-akshare==1.18.94
+akshare==1.18.40
 APScheduler==3.11.3
 asgiref==3.12.1
 asttokens==3.0.2
